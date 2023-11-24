@@ -1,9 +1,9 @@
 body  {
-    backgroud-color: #E4F1FF;
+    backgroud-color: #ffffff;
 }
 
-titulo {
-    color:  #0E21AO;
+titulo  {
+    color:  rgb(14, 160, 87);
     font-size: 50px;
     text-align: center;
 {
@@ -12,4 +12,14 @@ titulo {
     color: #362FD9;
     font-size: 30px;
     text-align: justify;
+}
+
+#magem{
+    height: 150px;
+    width: 150px;
+    padding: 5px;
+    margin: 5px;
+    border: 2px groove   #000000;
+    border-radius: 20px;
+
 }
