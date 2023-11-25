@@ -2,8 +2,8 @@ body  {
     backgroud-color: #e6e6e6;
 }
 
-titulo  {
-    color: #fc0303;
+#titulo  {
+    color: #000000;
     font-size: 50px;
     text-align: center;
 }
@@ -14,7 +14,7 @@ titulo  {
     text-align: justify;
 }
 
-#magem{
+#imagem{
     height: 25px;
     width: 25px;
     padding: 5px;
